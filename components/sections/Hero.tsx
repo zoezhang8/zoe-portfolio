@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="mt-8 flex gap-4">
         <a href="#projects">see my projects →</a>
         <a href="#contact">get in touch</a>
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/ZoeZhang_FTResume_Fall26.pdf" target="_blank" rel="noopener noreferrer">
           résumé →
         </a>
       </div>

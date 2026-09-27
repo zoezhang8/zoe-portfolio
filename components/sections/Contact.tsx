@@ -1,8 +1,8 @@
 const contactLinks = [
   { label: "email", href: "mailto:zoeqzhang8@gmail.com" },
-  { label: "linkedin", href: "https://www.linkedin.com/in/TODO" },
-  { label: "github", href: "https://github.com/TODO" },
-  { label: "resume.pdf", href: "/resume.pdf" },
+  { label: "linkedin", href: "https://www.linkedin.com/in/zoezhang8" },
+  { label: "github", href: "https://github.com/zoezhang8" },
+  { label: "resume.pdf", href: "/ZoeZhang_FTResume_Fall26.pdf" },
 ];
 
 export default function Contact() {

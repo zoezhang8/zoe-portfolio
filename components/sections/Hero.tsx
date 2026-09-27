@@ -5,8 +5,9 @@ export default function Hero() {
       <p>00 · zoe zhang</p>
       <p>plano, texas · cs @ ut dallas &apos;27</p>
       <h1 className="mt-4 font-mono text-5xl font-bold">
-      <Decrypt text="zoe zhang" />
+      <Decrypt text="Zoe Zhang" />
       </h1>
+      <p className="mt-2 font-mono text-sm text-muted">hover to decrypt</p>
       <p className="mt-4 max-w-xl">
         cs student at ut dallas and software engineering intern at infosys,
         where i lead security for an autonomous sentry robot. i like secure
@@ -16,7 +17,7 @@ export default function Hero() {
         <a href="#projects">see my projects →</a>
         <a href="#contact">get in touch</a>
         <a href="/ZoeZhang_FTResume_Fall26.pdf" target="_blank" rel="noopener noreferrer">
-          résumé →
+          resume →
         </a>
       </div>
     </section>

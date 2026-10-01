@@ -1,4 +1,5 @@
 import Nav from "@/components/Nav";
+import PaletteSwitcher from "@/components/ui/PaletteSwitcher";
 import Hero from "@/components/sections/Hero";
 import About from "@/components/sections/About";
 import Experience from "@/components/sections/Experience";
@@ -9,6 +10,7 @@ export default function Home() {
   return (
     <>
       <Nav />
+      
       <main>
         <Hero />
         <About />
